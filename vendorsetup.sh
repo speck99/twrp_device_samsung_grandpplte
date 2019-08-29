@@ -1,0 +1,2 @@
+add_lunch_combo omni_grandpplte-eng
+add_lunch_combo omni_grandpplte-userdebug
